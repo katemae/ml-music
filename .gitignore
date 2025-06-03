@@ -6,3 +6,4 @@ midi_wav/
 soundfonts/
 music_model.pkl
 tokenizer.pkl
+conditional_music_model.pkl
