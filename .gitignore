@@ -4,3 +4,5 @@ midi_df/
 maestro-v3.0.0/
 midi_wav/
 soundfonts/
+music_model.pkl
+tokenizer.pkl
